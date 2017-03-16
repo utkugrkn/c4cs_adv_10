@@ -26,8 +26,8 @@ def calculate(arg):
 			stack.append(result)
 	return stack.pop()
 
-def uncovered(arg):
-	pass
+#def uncovered(arg):
+#	pass
 
 def main():
 	while True:
